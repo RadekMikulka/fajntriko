@@ -400,32 +400,32 @@ const services = [
   {
     icon: <IconShirt />,
     title: 'Potisk triček',
-    desc: 'DTF a sublimační tisk na bavlněná i syntetická trička. Plnobarevné motivy, foto, loga — bez limitu barev.',
+    desc: 'DTF a sublimační tisk na bavlněná i syntetická trička. Plnobarevné motivy, fotografie a loga — bez limitu barev, vždy s ostrým výsledkem.',
   },
   {
     icon: <IconHoodie />,
     title: 'Mikiny a merch',
-    desc: 'Zip mikiny, klasické mikiny, čepice. Ideální pro spolkový nebo firemní merch s dlouhou životností.',
+    desc: 'Zip mikiny, klasické mikiny i čepice s vlastním potiskem. Skvělé pro spolkový nebo firemní merch — tisk odolný vůči praní, barvy vydrží.',
   },
   {
     icon: <IconBriefcase />,
     title: 'Firemní oblečení',
-    desc: 'Polokošile, trička a mikiny s logem vaší firmy. Jednotný vizuál, profesionální dojem.',
+    desc: 'Polokošile, trička a mikiny s logem vaší firmy nebo projektu. Jednotný vizuál pro celý tým — profesionální dojem, který si všimnou všichni.',
   },
   {
     icon: <IconUsers />,
     title: 'Třídy & spolky',
-    desc: 'Třídní trička, sportovní dresy, spolkové uniformy. Skupinové objednávky vyřídíme rychle a bez stresu.',
+    desc: 'Třídní trička, sportovní dresy nebo spolkové uniformy přesně na míru. Skupinové objednávky od 5 kusů vyřídíme rychle a bez zbytečného stresu.',
   },
   {
     icon: <IconBox />,
     title: 'Maloodběr i série',
-    desc: 'Klidně 1 kus jako dárek, nebo 500 ks pro celou firmu. Množstevní slevy od 5 kusů.',
+    desc: 'Klidně 1 kus jako originální dárek, nebo 500 ks pro celou firmu. Množstevní slevy platí od 5 kusů — čím více objednáte, tím nižší cena.',
   },
   {
     icon: <IconPencil />,
     title: 'Váš návrh nebo náš',
-    desc: 'Máte vlastní grafiku? Super. Nemáte? Pomůžeme s designem — od nápadu po hotový soubor pro tisk.',
+    desc: 'Máte vlastní grafiku? Pošlete soubor a jedeme. Nemáte? Pomůžeme s návrhem od prvního nápadu po hotový tiskový soubor — bez příplatku.',
   },
 ]
 
