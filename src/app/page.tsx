@@ -935,7 +935,7 @@ function Contact() {
                     </label>
                     <input
                       type="tel"
-                      placeholder="+420 777 123 456"
+                      placeholder="+420 608 151 001"
                       value={form.phone}
                       onChange={set('phone')}
                       className={inputClass('phone')}
@@ -1013,9 +1013,9 @@ function Contact() {
                 </h3>
                 <div className="flex flex-col gap-4">
                   {[
-                    { icon: <IconPhone />, label: 'Telefon', value: '+420 777 123 456' },
+                    { icon: <IconPhone />, label: 'Telefon', value: '+420 608 151 001' },
                     { icon: <IconMail />, label: 'E-mail', value: 'info@fajntriko.cz' },
-                    { icon: <IconPin />, label: 'Lokalita', value: 'Praha a okolí · Zásilkovna ČR' },
+                    { icon: <IconPin />, label: 'Adresa', value: 'Třebsín 100, Krňany · Zásilkovna ČR' },
                   ].map((c) => (
                     <div key={c.label} className="flex items-start gap-4">
                       <div className="w-10 h-10 rounded-xl bg-brand-orange/10 text-brand-orange flex items-center justify-center flex-shrink-0">
@@ -1131,12 +1131,12 @@ function Footer() {
             </h5>
             <div className="flex flex-col gap-2.5 text-sm text-white/50">
               <a href="tel:+420777123456" className="hover:text-brand-orange transition-colors">
-                +420 777 123 456
+                +420 608 151 001
               </a>
               <a href="mailto:info@fajntriko.cz" className="hover:text-brand-orange transition-colors">
                 info@fajntriko.cz
               </a>
-              <span>Praha a okolí</span>
+              <span>Třebsín 100, Krňany</span>
             </div>
           </div>
         </div>
