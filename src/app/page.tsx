@@ -353,7 +353,7 @@ function Hero() {
             Praha &amp; okolí · Rychlé dodání
           </div>
 
-          <h1 className="font-display font-800 text-5xl sm:text-6xl md:text-7xl leading-[1.05] text-brand-dark mb-6">
+          <h1 className="font-display font-800 text-5xl sm:text-6xl md:text-7xl leading-[1.05] text-brand-dark mb-6 uppercase">
             Trička,{' '}
             <span className="relative inline-block">
               která
